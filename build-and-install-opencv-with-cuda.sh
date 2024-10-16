@@ -124,7 +124,7 @@ install_opencv() {
     sudo apt-get update
 
     echo "Congratulations!"
-    echo "You've successfully installed OpenCV $CV_VERSION on your Nano"
+    echo "You've successfully installed OpenCV $CV_VERSION on your Xavier"
 }
 
 cd ~
